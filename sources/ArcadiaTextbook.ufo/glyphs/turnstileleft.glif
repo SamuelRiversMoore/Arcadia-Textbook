@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="turnstileleft" format="1">
+  <advance width="658"/>
+  <unicode hex="22A2"/>
+  <outline>
+    <contour>
+      <point x="146" y="546" type="line"/>
+      <point x="146" y="318" type="line"/>
+      <point x="624" y="318" type="line"/>
+      <point x="624" y="248" type="line"/>
+      <point x="146" y="248" type="line"/>
+      <point x="146" y="0" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="76" y="546" type="line"/>
+    </contour>
+  </outline>
+</glyph>

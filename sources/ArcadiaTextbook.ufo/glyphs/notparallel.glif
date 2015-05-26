@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notparallel" format="1">
+  <advance width="340"/>
+  <unicode hex="2226"/>
+  <outline>
+    <contour>
+      <point x="146" y="301" type="line"/>
+      <point x="146" y="-14" type="line"/>
+      <point x="91" y="-14" type="line"/>
+      <point x="91" y="246" type="line"/>
+      <point x="30" y="185" type="line"/>
+      <point x="30" y="263" type="line"/>
+      <point x="91" y="324" type="line"/>
+      <point x="91" y="676" type="line"/>
+      <point x="146" y="676" type="line"/>
+      <point x="146" y="379" type="line"/>
+      <point x="198" y="431" type="line"/>
+      <point x="198" y="676" type="line"/>
+      <point x="253" y="676" type="line"/>
+      <point x="253" y="486" type="line"/>
+      <point x="310" y="543" type="line"/>
+      <point x="310" y="464" type="line"/>
+      <point x="253" y="407" type="line"/>
+      <point x="253" y="-14" type="line"/>
+      <point x="198" y="-14" type="line"/>
+      <point x="198" y="352" type="line"/>
+    </contour>
+  </outline>
+</glyph>

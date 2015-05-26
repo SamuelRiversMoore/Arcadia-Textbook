@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ownersmall" format="1">
+  <advance width="713"/>
+  <unicode hex="220D"/>
+  <outline>
+    <component base="uni220A" xScale="-0.999939" yScale="-0.999939" xOffset="549.966" yOffset="467.971"/>
+  </outline>
+</glyph>

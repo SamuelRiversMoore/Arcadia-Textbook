@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="subset" format="1">
+  <advance width="584"/>
+  <unicode hex="2282"/>
+  <outline>
+    <contour>
+      <point x="382" y="0" type="line" smooth="yes"/>
+      <point x="312" y="0"/>
+      <point x="198" y="31"/>
+      <point x="106" y="99"/>
+      <point x="55" y="218"/>
+      <point x="55" y="300" type="qcurve" smooth="yes"/>
+      <point x="55" y="451"/>
+      <point x="232" y="600"/>
+      <point x="382" y="600" type="qcurve" smooth="yes"/>
+      <point x="530" y="600" type="line"/>
+      <point x="530" y="530" type="line"/>
+      <point x="382" y="530" type="line"/>
+      <point x="125" y="523"/>
+      <point x="125" y="300" type="qcurve" smooth="yes"/>
+      <point x="125" y="234"/>
+      <point x="164" y="142"/>
+      <point x="237" y="92"/>
+      <point x="325" y="70"/>
+      <point x="382" y="70" type="qcurve" smooth="yes"/>
+      <point x="522" y="70" type="line"/>
+      <point x="522" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

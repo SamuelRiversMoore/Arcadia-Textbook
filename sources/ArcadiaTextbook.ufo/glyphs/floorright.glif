@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="floorright" format="1">
+  <advance width="456"/>
+  <unicode hex="230B"/>
+  <outline>
+    <contour>
+      <point x="358" y="0" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="73" y="70" type="line"/>
+      <point x="288" y="70" type="line"/>
+      <point x="288" y="729" type="line"/>
+      <point x="358" y="729" type="line"/>
+    </contour>
+  </outline>
+</glyph>

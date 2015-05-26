@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triangleftequal" format="1">
+  <advance width="636"/>
+  <unicode hex="22B4"/>
+  <outline>
+    <component base="minus" xOffset="25" yOffset="-163"/>
+    <component base="triangleright" yOffset="146"/>
+  </outline>
+</glyph>

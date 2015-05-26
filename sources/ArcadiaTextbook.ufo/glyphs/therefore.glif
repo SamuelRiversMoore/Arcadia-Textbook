@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="therefore" format="1">
+  <advance width="863"/>
+  <unicode hex="2234"/>
+  <outline>
+    <contour>
+      <point x="182" y="19" type="qcurve" smooth="yes"/>
+      <point x="163" y="38"/>
+      <point x="163" y="92"/>
+      <point x="201" y="130"/>
+      <point x="255" y="130"/>
+      <point x="293" y="92"/>
+      <point x="293" y="38"/>
+      <point x="255" y="0"/>
+      <point x="201" y="0"/>
+    </contour>
+    <contour>
+      <point x="590" y="19" type="qcurve" smooth="yes"/>
+      <point x="571" y="38"/>
+      <point x="571" y="92"/>
+      <point x="609" y="130"/>
+      <point x="663" y="130"/>
+      <point x="701" y="92"/>
+      <point x="701" y="38"/>
+      <point x="663" y="0"/>
+      <point x="609" y="0"/>
+    </contour>
+    <contour>
+      <point x="386" y="367" type="qcurve" smooth="yes"/>
+      <point x="367" y="386"/>
+      <point x="367" y="440"/>
+      <point x="405" y="478"/>
+      <point x="459" y="478"/>
+      <point x="497" y="440"/>
+      <point x="497" y="386"/>
+      <point x="459" y="348"/>
+      <point x="405" y="348"/>
+    </contour>
+  </outline>
+</glyph>

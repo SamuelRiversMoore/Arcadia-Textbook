@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E06" format="1">
+  <advance width="667"/>
+  <unicode hex="1E06"/>
+  <outline>
+    <component base="macron" xOffset="78" yOffset="-760"/>
+    <component base="B"/>
+  </outline>
+</glyph>

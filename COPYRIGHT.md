@@ -1,0 +1,1 @@
+Copyright (c) 2015, Samuel Rivers-Moore <message@samuelriversmoore.net>

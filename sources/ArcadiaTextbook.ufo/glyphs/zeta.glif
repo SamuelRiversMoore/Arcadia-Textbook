@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zeta" format="1">
+  <advance width="462"/>
+  <unicode hex="03B6"/>
+  <outline>
+    <contour>
+      <point x="294" y="-4" type="qcurve" smooth="yes"/>
+      <point x="273" y="-4"/>
+      <point x="218" y="5"/>
+      <point x="142" y="36"/>
+      <point x="81" y="82"/>
+      <point x="38" y="166"/>
+      <point x="38" y="220" type="qcurve" smooth="yes"/>
+      <point x="38" y="358"/>
+      <point x="175" y="580"/>
+      <point x="278" y="646" type="qcurve"/>
+      <point x="54" y="646" type="line"/>
+      <point x="54" y="718" type="line"/>
+      <point x="410" y="718" type="line"/>
+      <point x="410" y="658" type="line"/>
+      <point x="297" y="594"/>
+      <point x="130" y="368"/>
+      <point x="130" y="236" type="qcurve" smooth="yes"/>
+      <point x="130" y="94"/>
+      <point x="303" y="74" type="qcurve" smooth="yes"/>
+      <point x="372" y="69"/>
+      <point x="440" y="23"/>
+      <point x="440" y="-42" type="qcurve" smooth="yes"/>
+      <point x="440" y="-97"/>
+      <point x="402" y="-194" type="qcurve"/>
+      <point x="326" y="-166" type="line"/>
+      <point x="360" y="-97"/>
+      <point x="360" y="-64" type="qcurve" smooth="yes"/>
+      <point x="360" y="-29"/>
+      <point x="331" y="-4"/>
+    </contour>
+  </outline>
+</glyph>

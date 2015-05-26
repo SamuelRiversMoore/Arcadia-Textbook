@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reflexsubset" format="1">
+  <advance width="584"/>
+  <unicode hex="2286"/>
+  <outline>
+    <component base="minus" xOffset="-13" yOffset="-218"/>
+    <component base="subset" yOffset="98"/>
+  </outline>
+</glyph>

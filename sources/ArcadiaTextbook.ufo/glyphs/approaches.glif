@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="approaches" format="1">
+  <advance width="584"/>
+  <unicode hex="2250"/>
+  <outline>
+    <contour>
+      <point x="534" y="353" type="line"/>
+      <point x="534" y="283" type="line"/>
+      <point x="50" y="283" type="line"/>
+      <point x="50" y="353" type="line"/>
+    </contour>
+    <contour>
+      <point x="534" y="181" type="line"/>
+      <point x="534" y="111" type="line"/>
+      <point x="50" y="111" type="line"/>
+      <point x="50" y="181" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="544" type="qcurve" smooth="yes"/>
+      <point x="316" y="544"/>
+      <point x="354" y="507"/>
+      <point x="354" y="455"/>
+      <point x="318" y="419"/>
+      <point x="291" y="419" type="qcurve" smooth="yes"/>
+      <point x="266" y="419"/>
+      <point x="230" y="456"/>
+      <point x="230" y="481" type="qcurve" smooth="yes"/>
+      <point x="230" y="504"/>
+      <point x="268" y="544"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circlemultiply" format="1">
+  <advance width="768"/>
+  <unicode hex="2297"/>
+  <outline>
+    <contour>
+      <point x="193" y="484" type="line"/>
+      <point x="232" y="523" type="line"/>
+      <point x="388" y="366" type="line"/>
+      <point x="544" y="522" type="line"/>
+      <point x="583" y="484" type="line"/>
+      <point x="427" y="328" type="line"/>
+      <point x="583" y="172" type="line"/>
+      <point x="544" y="134" type="line"/>
+      <point x="388" y="290" type="line"/>
+      <point x="232" y="133" type="line"/>
+      <point x="193" y="172" type="line"/>
+      <point x="349" y="328" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="84" type="qcurve" smooth="yes"/>
+      <point x="43" y="185"/>
+      <point x="43" y="471"/>
+      <point x="245" y="673"/>
+      <point x="531" y="673"/>
+      <point x="733" y="471"/>
+      <point x="733" y="185"/>
+      <point x="531" y="-17"/>
+      <point x="245" y="-17"/>
+    </contour>
+    <contour>
+      <point x="181" y="534" type="qcurve" smooth="yes"/>
+      <point x="96" y="449"/>
+      <point x="96" y="207"/>
+      <point x="267" y="36"/>
+      <point x="509" y="36"/>
+      <point x="680" y="207"/>
+      <point x="680" y="449"/>
+      <point x="509" y="620"/>
+      <point x="267" y="620"/>
+    </contour>
+  </outline>
+</glyph>

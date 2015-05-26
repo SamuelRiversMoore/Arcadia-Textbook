@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H18543" format="1">
+  <advance width="1000"/>
+  <unicode hex="25AA"/>
+  <outline>
+    <contour>
+      <point x="300" y="500" type="line"/>
+      <point x="700" y="500" type="line"/>
+      <point x="700" y="100" type="line"/>
+      <point x="300" y="100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

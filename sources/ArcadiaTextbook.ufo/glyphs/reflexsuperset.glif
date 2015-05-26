@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reflexsuperset" format="1">
+  <advance width="584"/>
+  <unicode hex="2287"/>
+  <outline>
+    <contour>
+      <point x="558" y="49" type="line"/>
+      <point x="558" y="-21" type="line"/>
+      <point x="54" y="-21" type="line"/>
+      <point x="54" y="49" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="695" type="line" smooth="yes"/>
+      <point x="273" y="695"/>
+      <point x="387" y="664"/>
+      <point x="479" y="596"/>
+      <point x="530" y="477"/>
+      <point x="530" y="395" type="qcurve" smooth="yes"/>
+      <point x="530" y="244"/>
+      <point x="353" y="95"/>
+      <point x="203" y="95" type="qcurve" smooth="yes"/>
+      <point x="55" y="95" type="line"/>
+      <point x="55" y="165" type="line"/>
+      <point x="203" y="165" type="line"/>
+      <point x="460" y="172"/>
+      <point x="460" y="395" type="qcurve" smooth="yes"/>
+      <point x="460" y="461"/>
+      <point x="421" y="553"/>
+      <point x="348" y="603"/>
+      <point x="260" y="625"/>
+      <point x="203" y="625" type="qcurve" smooth="yes"/>
+      <point x="63" y="625" type="line"/>
+      <point x="63" y="695" type="line"/>
+    </contour>
+  </outline>
+</glyph>

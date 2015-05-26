@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triangleinv" format="1">
+  <advance width="892"/>
+  <unicode hex="25BD"/>
+  <outline>
+    <component base="triangle" xScale="-0.999939" yScale="-0.999939" xOffset="892.945" yOffset="705.957"/>
+  </outline>
+</glyph>

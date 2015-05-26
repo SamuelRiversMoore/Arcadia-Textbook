@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="intersectionsq" format="1">
+  <advance width="636"/>
+  <unicode hex="2293"/>
+  <outline>
+    <contour>
+      <point x="69" y="1" type="line"/>
+      <point x="69" y="505" type="line"/>
+      <point x="567" y="505" type="line"/>
+      <point x="567" y="1" type="line"/>
+      <point x="496" y="1" type="line"/>
+      <point x="496" y="436" type="line"/>
+      <point x="141" y="436" type="line"/>
+      <point x="141" y="1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

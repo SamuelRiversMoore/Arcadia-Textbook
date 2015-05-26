@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="subsetsqequal" format="1">
+  <advance width="636"/>
+  <unicode hex="2291"/>
+  <outline>
+    <component base="minus" xOffset="26" yOffset="-194"/>
+    <component base="squareimage" xOffset="14" yOffset="142"/>
+  </outline>
+</glyph>

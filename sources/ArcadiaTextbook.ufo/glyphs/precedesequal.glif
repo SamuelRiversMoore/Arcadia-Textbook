@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="precedesequal" format="1">
+  <advance width="584"/>
+  <unicode hex="227C"/>
+  <outline>
+    <component base="minus" yOffset="-197"/>
+    <component base="precedes" xOffset="4" yOffset="129"/>
+  </outline>
+</glyph>

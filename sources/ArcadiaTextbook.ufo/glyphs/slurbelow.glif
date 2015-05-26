@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slurbelow" format="1">
+  <advance width="658"/>
+  <unicode hex="2323"/>
+  <outline>
+    <component base="frown" xScale="-0.999939" yScale="-0.999939" xOffset="658.96" yOffset="483.97"/>
+  </outline>
+</glyph>

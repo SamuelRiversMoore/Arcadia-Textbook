@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2023" format="1">
+  <advance width="350"/>
+  <unicode hex="2023"/>
+  <outline>
+    <contour>
+      <point x="70" y="470" type="line"/>
+      <point x="300" y="346"/>
+      <point x="300" y="345" type="qcurve" smooth="yes"/>
+      <point x="300" y="345"/>
+      <point x="70" y="220" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

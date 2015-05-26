@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ceilingleft" format="1">
+  <advance width="456"/>
+  <unicode hex="2308"/>
+  <outline>
+    <contour>
+      <point x="98" y="729" type="line"/>
+      <point x="382" y="729" type="line"/>
+      <point x="382" y="659" type="line"/>
+      <point x="168" y="659" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="98" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

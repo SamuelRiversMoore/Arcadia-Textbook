@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicaland" format="1">
+  <advance width="603"/>
+  <unicode hex="2227"/>
+  <outline>
+    <component base="logicalor" xScale="-0.999939" yScale="-0.999939" xOffset="604.963" yOffset="447.973"/>
+  </outline>
+</glyph>

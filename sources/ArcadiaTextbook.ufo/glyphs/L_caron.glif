@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="556"/>
+  <unicode hex="013D"/>
+  <outline>
+    <component base="comma" xOffset="216" yOffset="637"/>
+    <component base="L"/>
+  </outline>
+</glyph>

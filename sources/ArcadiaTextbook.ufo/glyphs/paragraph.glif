@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="paragraph" format="1">
+  <advance width="537"/>
+  <unicode hex="00B6"/>
+  <outline>
+    <contour>
+      <point x="255" y="259" type="line"/>
+      <point x="158" y="264"/>
+      <point x="48" y="395"/>
+      <point x="48" y="489" type="qcurve" smooth="yes"/>
+      <point x="48" y="590"/>
+      <point x="178" y="729"/>
+      <point x="272" y="729" type="qcurve" smooth="yes"/>
+      <point x="522" y="729" type="line"/>
+      <point x="522" y="665" type="line"/>
+      <point x="465" y="665" type="line"/>
+      <point x="465" y="-177" type="line"/>
+      <point x="401" y="-177" type="line"/>
+      <point x="401" y="665" type="line"/>
+      <point x="319" y="665" type="line"/>
+      <point x="319" y="-177" type="line"/>
+      <point x="255" y="-177" type="line"/>
+    </contour>
+  </outline>
+</glyph>

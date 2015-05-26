@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="truestate" format="1">
+  <advance width="608"/>
+  <unicode hex="22A7"/>
+  <outline>
+    <contour>
+      <point x="146" y="548" type="line"/>
+      <point x="146" y="388" type="line"/>
+      <point x="548" y="388" type="line"/>
+      <point x="548" y="318" type="line"/>
+      <point x="146" y="318" type="line"/>
+      <point x="146" y="206" type="line"/>
+      <point x="548" y="206" type="line"/>
+      <point x="548" y="136" type="line"/>
+      <point x="146" y="136" type="line"/>
+      <point x="146" y="-20" type="line"/>
+      <point x="76" y="-20" type="line"/>
+      <point x="76" y="548" type="line"/>
+    </contour>
+  </outline>
+</glyph>
