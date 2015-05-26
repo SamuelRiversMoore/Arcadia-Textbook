@@ -1,4 +1,4 @@
-# Myfont
+# Arcadia Textbook
 
 Arcadia is a fork of Limousine font by OSP <http://ospublish.constantvzw.org/foundry/limousine/>, which is a fork of the Free Sans, inspired by the typeface Nimbus Sans, which itself is inspired by Helvetica.
 More info on Loraine Furter blog Specimen <http://specimen.meteor.com/of/arcadia>
